@@ -1,3 +1,12 @@
 1. A python library adds additonal pre-made modules to code for further functionality, instead of having to make everything from nothing. Libaries can be added by using the "import" statement.
 2. A series is where all of the components in the circut rely on each other to compelte the circut (One big circut). (I.e if the stoplight was a series, if the red light stops working, the rest of the stoplight stops working.)
-   A parallel is where all of the individual components individyual rely on their own circuts (Ex: The lights each correspond to one power source each and they are individually controlled by those sources, not other components.)
+   A parallel is where all of the individual components individual rely on their own circuts (Ex: The lights each correspond to one power source each and they are individually controlled by those sources, not other components.)
+3. Virtually, Yes. You can make a circut with 3 light bulbs in a series. However, the power will be too high on the first one, the second will receive less power, and the last one might not even have power at all. The lightbulbs rely on each other in a series so if one doesn't work then the others won't--this happened when I was making the circut like this.
+4.
+           { 0 <= t <= 5 }
+   f(x) =  { 5 <= t <= 6 }
+           { 6 <= t <= 10}
+5.       ______ 
+      _   
+_____
+1    5 6      10
